@@ -1,0 +1,66 @@
+.main_div{
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    background-color: hsl(0, 0%, 98%);
+}
+a,p{
+    font-family: 'Epilogue', sans-serif;
+    color: hsl(0, 0%, 41%) ;
+}
+h1{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 700;
+    font-size: 4rem;
+}
+.brand_name{
+    color: hsl(0, 0%, 8%);
+}
+.nav_btn_login{
+    color:hsl(0, 0%, 41%) ;
+    cursor: pointer;
+}
+.nav_btn_login:hover{
+    color: hsl(0, 0%, 8%);
+}
+.nav_btn_register{
+    color: hsl(0, 0%, 41%);
+    border: 1px solid hsl(0, 0%, 41%);
+    cursor: pointer;
+}
+.nav_btn_register:hover{
+    color: hsl(0, 0%, 8%);
+    border-color: hsl(0, 0%, 8%);
+}
+.dropdown_img{
+    margin-right: 1rem;
+}
+.heading_div{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.maindiv_button{
+    font-family: 'Epilogue', sans-serif;
+    background-color: hsl(0, 0%, 8%);
+    color: white;
+    cursor: pointer;
+}
+.maindiv_button:hover{
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(0, 0%, 8%);
+    border: 1px solid hsl(0, 0%, 8%);
+
+}
+.footer_svg{
+    margin-top: 50px;
+}
+.img_div{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.image_hero_desktop{
+    width: 60%;
+    padding-top: 10%;
+}
